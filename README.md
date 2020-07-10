@@ -1,3 +1,3 @@
-#TYPECHAIN
+# TYPECHAIN
 
-Learning typescript
+Learning typescript 
